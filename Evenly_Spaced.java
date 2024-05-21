@@ -3,6 +3,7 @@
 //evenlySpaced(2, 4, 6) → true
 //evenlySpaced(4, 6, 2) → true
 //evenlySpaced(4, 6, 3) → false
+
 public boolean evenlySpaced(int a, int b, int c) {
   int x = 0, y = 0;
   boolean z;
